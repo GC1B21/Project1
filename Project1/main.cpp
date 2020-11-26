@@ -3,6 +3,7 @@
 
 int main(void)
 {
+	printf("Hello Github World\n");
 	system("pause");
 	return 0;
 }
